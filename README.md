@@ -14,9 +14,3 @@ Computer Engineer with a Master's in Computer Engineering and Cybersecurity, spe
 ## 📊 GitHub Highlights
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidGomez-coder&stats_format=bytes&theme=dracula)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DavidGomez-coder&repo=secure-api&theme=dracula)](https://github.com/DavidGomez-coder/secure-api)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DavidGomez-coder&repo=secure-api&theme=dracula)](https://github.com/DavidGomez-coder/secure-api)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DavidGomez-coder&repo=TFG&theme=dracula)](https://github.com/DavidGomez-coder/TFG)
